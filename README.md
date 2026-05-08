@@ -1,9 +1,7 @@
 <div align="center">
 
 
-
-
-
+<img width="650" height="600" alt="image" src="https://github.com/user-attachments/assets/30fec44e-d638-4fe3-962a-d0080d9c04a0" />
 
 
 # Edge Password Viewer
