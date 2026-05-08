@@ -1,8 +1,8 @@
-# Edge-Password-Viewer
-
 <div align="center">
 
-<img src="app.ico" width="80" height="80" alt="icon"/>
+<img src="https://github.com/SelfC0de/Edge-Password-Viewer/blob/main/app.ico?raw=true" width="80" height="80" alt="icon"/>
+
+<sub>Icon by <a href="https://icon-icons.com/ru/authors/1354-murkyylurkss">MurkyyLurkss</a> on <a href="https://icon-icons.com">Icon-Icons.com</a></sub>
 
 # Edge Password Viewer
 
